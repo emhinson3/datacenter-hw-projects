@@ -1,2 +1,11 @@
-# datacenter-hw-projects
-Hardware engineering projects focused on data center infrastructure, Verilog/RTL design, RISC-V architecture, and systems simulations.
+# Data Center Hardware Projects
+
+Summer 2026 self-study roadmap focused on:
+- data center infrastructure
+- RTL/Verilog
+- computer architecture
+- thermal systems
+- networking
+- RISC-V CPU design
+
+Includes simulations, notes, and hardware projects.
